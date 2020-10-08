@@ -15,12 +15,19 @@
             .layer .layer_inner{display:table-cell;text-align:center;vertical-align:middle}
             .layer .content{display:inline-block;}           
             
-            @font-face { 
-                font-family:'EBSHunminjeongeumSBA'; 
-                src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff') format('woff'); 
-                font-weight:normal; 
-                font-style:normal; 
-            }        
+			@font-face {
+				font-family:'EBSHunminjeongeumSBA';
+				src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff") format('woff');
+				font-weight: normal;
+				font-style: normal;
+				unicode-range: U+AC00-D7AF;
+			}
+			body {
+				font-family: NotoSans EBSHunminjeongeumSBA;
+				font-style: normal;
+				width: 100%;
+			}
+		
             a {
                 color:white;
                 text-decoration: none;
