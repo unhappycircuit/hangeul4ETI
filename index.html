@@ -3,28 +3,34 @@
     <head>
 	    <title>한글로 쓰인 별 사이 쪽글</title>
 	    <meta charset="utf-8">
+<!** 모바일 **>
 	    <meta name="viewport" content="width=640">
+<!** 아이콘 **>
 	    <link rel='icon' type='image/icon' href='./favicon.ico'>
 	    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
 	    <link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png">
-	    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">	    
+	    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+<!** 썸네일 **>
 	    <meta property="og:url" content="https://hangeul4ETI.kr" />
 	    <meta property="og:title" content="한글로 쓰인 별 사이 쪽글" />
 	    <meta property="og:description" content="A Interstellar Message Written in Hangeul" />
 	    <meta property="og:image" content="https://raw.githubusercontent.com/unhappycircuit/hangeul4ETI/main/img.jpg" />	    
         <style>
+/** 화면 중앙 **/
 	    .layer{position:absolute;top:0;left:0;width:100%;height:100%;text-align:center}
 	    .layer .content{display:inline-block;background:#000;vertical-align:middle}
-	    .layer .blank{display:inline-block;width:0;height:100%;vertical-align:middle}		
+	    .layer .blank{display:inline-block;width:0;height:100%;vertical-align:middle}
+/** 한글에만 훈민정음체 **/
         @font-face {
 		font-family:'EBSHunminjeongeumSBA';
 		src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff") format('woff');
 		font-weight: normal;
 		font-style: normal;
 		unicode-range: U+AC00-D7AF;
-            }     
+            }
+/** 영어에는 Noto Sans **/
  	    body {
-	    	font-family: NotoSans  EBSHunminjeongeumSBA
+	    	font-family: NotoSans EBSHunminjeongeumSBA;
 		font-style: normal;
 		width: 100%;
             }           
