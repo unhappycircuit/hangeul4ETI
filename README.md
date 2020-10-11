@@ -8,7 +8,7 @@
 
 본 메시지는 기본적인 수학 및 과학에 대한 여러 개념들을 단계적으로 정의해나가는 방식으로 구성되어 있다. 앞선 내용을 이해하면 그다음 내용을 이해할 수 있는 구조로 이루어져 있어 메시지를 순서대로 차근차근 따라가다 보면, 외계의 과학자들과 언어학자들은 이 메시지의 내용을 충분히 이해할 수 있을 것이다.
 
-&lt;코스믹 콜&gt;을 디자인한 얀 듀틸(Yvan Dutil) 박사의 표현처럼, 본 메시지는 지구의 지식과 언어에 대한 간략하면서도 핵심적인 정보를 담고 있는 한글로 작성된 "인터스텔라 로제타 스톤(Rosetta Stone)"이다. 무엇보다 본 메시지의 맨 마지막 단락에는 우리 인간의 현재 모습이 반영된 한 문장의 메시지가 작성되어 있다. 이 마지막 메시지는 먼 우주를 향하는 인류의 메시지인 동시에, 바로 우리 인류 자신을 향하는 메시지이다.
+&lt;코스믹 콜&gt;을 디자인한 얀 듀틸(Yvan Dutil) 박사의 표현처럼, 본 메시지는 지구의 지식과 언어에 대한 간략하면서도 핵심적인 정보를 담고 있는 한글로 작성된 "인터스텔라 로제타 스톤(Rosetta Stone)"이다. 무엇보다 본 메시지의 맨 마지막 단락에는 우리 인간의 현재 모습이 반영된 한 문장의 메시지가 작성되어 있다. 이 마지막 메시지는 먼 우주를 향하는 인류의 메시지인 동시에 바로 우리 자신, '인류'를 향한 메시지이다.
 
 &lt;한글로 쓰인 별 사이 쪽글&gt;의 웹사이트는 2020년 10월 9일 한글날에 처음 공개되었다. 또한 오디오비주얼 인스톨레이션 형태의 미디어 작품으로도 동시에 제작되어 국립중앙도서관(2020.10.27.~11.13.)과 제로원 오픈스튜디오(2020.10.30.~11.20.)에서 전시되었다.
 
@@ -22,6 +22,6 @@ In particular, this message excludes the use of Chinese character, Hanja, expres
 
 This message was designed in a way to define the mathematical and scientific concepts step by step. In other words, It is composed of a structure that allows you to understand the next content if you understand the previous content. By following this message step by step in order, extraterrestrial scientists and linguists can understand the meaning of messages.
 
-As expressed by Dr. Yvan Dutil, who designed &lt;Cosmic Call&gt;, this message is “Interstellar Rosetta Stone” written in Korean that contains brief and essential information about the knowledge and language of the Earth. Above all, in the last paragraph of this message, there is a one sentence that reflects our human beings. This last sentence is the message from humanity to outer space, and at the same time, it is the message directed to ourselves.
+As expressed by Dr. Yvan Dutil, who designed &lt;Cosmic Call&gt;, this message is “Interstellar Rosetta Stone” written in Korean that contains brief and essential information about the knowledge and language of the Earth. Above all, in the last paragraph of this message, there is a one sentence that reflects our human beings. This last sentence is the message from humanity to outer space, and at the same time, it is the message directed to ourselves, humanity.
 
 The website of &lt;A Interstellar Message Written in Hangeul> was first released on Hangeul Day on October 9, 2020. In addition, the &lt;A Interstellar Message Written in Hangeul&gt; was simultaneously produced as an audiovisual installation and exhibited at the National Library of Korea and Hyundai Motor Group’s ZER01NE Studio in 2020.
