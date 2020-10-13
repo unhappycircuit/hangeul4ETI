@@ -12,9 +12,9 @@
 
 &lt;한글로 쓰인 별 사이 쪽글&gt;의 웹사이트는 2020년 10월 9일 한글날에 처음 공개되었다. 또한 오디오비주얼 인스톨레이션 형태의 미디어 작품으로도 동시에 제작되어 국립중앙도서관(2020.10.27.~11.13.)과 제로원 오픈스튜디오(2020.10.30.~11.20.)에서 전시되었다.
 
-# &lt;A Interstellar Message Written in Hangeul&gt;
+# &lt;Interstellar Message Written in Hangeul&gt;
 
-&lt;A Interstellar Message Written in Hangeul&gt; is a new interstellar message designed to communicate with extraterrestrial civilizations that utilize radio communication. In particular, this message is the first Interstellar message to apply Korean characters, Hangeul, and grammar as an attempt to deliver the Earth's natural language to extraterrestrial intelligence. This is an effort to more systematically convey information about the language of the Earth towards the unknown, and at the same time emphasize the importance of reflecting the diversity of languages and characters on the planet, including Hangeul and Korean, in designing interstellar messages.
+&lt;Interstellar Message Written in Hangeul&gt; is a new interstellar message designed to communicate with extraterrestrial civilizations that utilize radio communication. In particular, this message is the first Interstellar message to apply Korean characters, Hangeul, and grammar as an attempt to deliver the Earth's natural language to extraterrestrial intelligence. This is an effort to more systematically convey information about the language of the Earth towards the unknown, and at the same time emphasize the importance of reflecting the diversity of languages and characters on the planet, including Hangeul and Korean, in designing interstellar messages.
 
 The overall structure of this message is based on &lt;Cosmic Call&gt; in 1999 and 2003, but the overall contents have been revised and new contents have been added. Above all, this message is significant as the first attempt to combine the prior interstellar message, which was studied mainly on the expression of the Latin alphabet and mathematical symbols, with the Earth's natural language.
 
@@ -24,4 +24,4 @@ This message was designed in a way to define the mathematical and scientific con
 
 As expressed by Dr. Yvan Dutil, who designed &lt;Cosmic Call&gt;, this message is “Interstellar Rosetta Stone” written in Korean that contains brief and essential information about the knowledge and language of the Earth. Above all, in the last paragraph of this message, there is a one sentence that reflects our human beings. This last sentence is the message from humanity to outer space, and at the same time, it is the message directed to ourselves, humanity.
 
-The website of &lt;A Interstellar Message Written in Hangeul> was first released on Hangeul Day on October 9, 2020. In addition, the &lt;A Interstellar Message Written in Hangeul&gt; was simultaneously produced as an audiovisual installation and exhibited at the National Library of Korea and Hyundai Motor Group’s ZER01NE Studio in 2020.
+The website of &lt;Interstellar Message Written in Hangeul> was first released on Hangeul Day on October 9, 2020. In addition, the &lt;A Interstellar Message Written in Hangeul&gt; was simultaneously produced as an audiovisual installation and exhibited at the National Library of Korea and Hyundai Motor Group’s ZER01NE Studio in 2020.
