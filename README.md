@@ -4,7 +4,7 @@
 
 본 작품은 한글 문자와 한국어 문법으로 작성된 텍스트를 외계의 수신자가 이해할 수 있게끔 고안한 ‘인터스텔라 메시지(Interstellar message)‘이다. 이는 상호간의 깊은 이해를 바탕으로 한 대화를 위해 미지의 존재에게 지구의 언어에 대한 정보를 보다 체계적으로 전달하려는 노력이 동시에, 인터스텔라 메시지 디자인에 한글과 한국어를 포함한 지구상의 여러 언어와 그 문자들의 다양성을 반영하는 것이 중요함을 강조하기 위함이다.
 
-특히 본 작품의 맨 마지막 단락에는 인류의 현재가 반영된 한 문장의 메시지가 작성되어 있다. ‘지구의 온도가 지난 10 년 동안 1.09 °C 높아졌다’라고 쓰인 이 마지막 문장은 먼 우주를 향하는 동시에 바로 ‘우리 자신’, 인류를 향하는 메시지이다.
+무엇보다, 본 작품의 맨 마지막 단락에는 인류의 현재가 반영된 한 문장의 메시지가 작성되어 있다. ‘지구의 온도가 지난 10 년 동안 1.09 °C 높아졌다’라고 쓰인 이 마지막 문장은 먼 우주를 향하는 동시에 바로 ‘우리 자신’, 인류를 향하는 메시지이다.
 
 # ＜Interstellar Message Written in Hangeul＞
 
@@ -12,4 +12,4 @@ Language reflects the unique way of thinking and cultural characteristics of bei
 
 This work is an interstellar message composed to enable extraterrestrial recipients to understand text written in the Korean alphabet, Hangeul, and Korean grammar. This is an effort to more systematically transmit information about the Earth's language to unknown beings for communication based on mutual deep understanding, and is to emphasize the importance of reflecting the diversity and uniqueness of various languages on the Earth, including Korean, in interstellar message composition.
 
-In the last paragraph of this message, there is one sentence that reflects our human civilization. The last sentence reads, The temperature of the earth has risen by 1.09°C over the past 10 years. This sentence is the message from humanity to outer space, and at the same time, directed to ourselves, humanity.
+Above all, there is one sentence that reflects our human civilization in the last paragraph of the message. The last sentence reads, The temperature of the earth has risen by 1.09°C over the past 10 years. This sentence is the message from humanity to outer space, and at the same time, directed to ourselves, humanity.
